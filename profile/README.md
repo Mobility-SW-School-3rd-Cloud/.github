@@ -78,7 +78,7 @@ WanderPool은 인증, 회원, 파티, 지도 서비스를 분리해 구성했으
 | Category | Stack |
 |---|---|
 | Frontend | Next.js, Vercel |
-| Backend | Java, Spring Boot, gRPC |
+| Backend | Java 21, Spring Boot 3.2+, gRPC |
 | Infra / Network | Kubernetes, AWS S2S VPN, Kong, Istio |
 | Data / Storage | MySQL, PostgreSQL, Redis, AWS S3 |
 | CI/CD | Jenkins, GitLab CI, Docker, Harbor, Argo CD |
@@ -108,7 +108,7 @@ WanderPool은 인증, 회원, 파티, 지도 서비스를 분리해 구성했으
 - 서비스 간 gRPC 통신
 - Kubernetes 기반 서비스 배포
 - Jenkins, Argo CD 기반 CI/CD
-- Prometheus, Grafana, Kiali 기반 관측 환경 구성
+- Prometheus, Grafana, Elasticsearch, Fluentd, Kibana, Kiali 기반 관측 환경 구성
 
 ## Screens
 
