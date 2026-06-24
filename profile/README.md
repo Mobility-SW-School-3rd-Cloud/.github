@@ -129,6 +129,14 @@ WanderPool은 인증, 회원, 파티, 지도 서비스를 분리해 구성했으
 
 </div>
 
+## Database ERD
+
+<div align="center">
+
+<img src="./assets/erd.png" alt="WanderPool ERD" width="900"/>
+
+</div>
+
 ## Notice
 
 - 본 Organization은 교육 과정 산출물 보관 및 팀원 공동 관리를 목적으로 합니다.
