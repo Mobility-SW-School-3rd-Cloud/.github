@@ -25,27 +25,34 @@ WanderPool은 인증, 회원, 파티, 지도 서비스를 분리해 구성했으
     <td align="center">
       <a href="https://github.com/Wooniq">
         <img src="https://github.com/Wooniq.png" width="100px;" alt="한지운"/><br />
-        <sub><b>한지운</b></sub><br />
-        <sub>PL</sub>
+        <sub><b>한지운</b></sub>
       </a>
+      <br />
+      <sub>PL, BE</sub>
     </td>
     <td align="center">
       <a href="https://github.com/taehyun02">
         <img src="https://github.com/taehyun02.png" width="100px;" alt="김태현"/><br />
         <sub><b>김태현</b></sub>
       </a>
+      <br />
+      <sub>BE</sub>
     </td>
     <td align="center">
       <a href="https://github.com/sunwoo-0111">
         <img src="https://github.com/sunwoo-0111.png" width="100px;" alt="임선우"/><br />
         <sub><b>임선우</b></sub>
       </a>
+      <br />
+      <sub>BE</sub>
     </td>
     <td align="center">
       <a href="https://github.com/MODIFYC">
         <img src="https://github.com/MODIFYC.png" width="100px;" alt="최수정"/><br />
         <sub><b>최수정</b></sub>
       </a>
+      <br />
+      <sub>FE</sub>
     </td>
   </tr>
 </table>
@@ -112,6 +119,7 @@ WanderPool은 인증, 회원, 파티, 지도 서비스를 분리해 구성했으
 | 카풀 파티 목록 | 추후 업데이트 예정 |
 | 카풀 파티 상세 | 추후 업데이트 예정 |
 | 지도 화면 | 추후 업데이트 예정 |
+| 마이페이지 화면 | 추후 업데이트 예정 |
 
 ## Architecture
 
